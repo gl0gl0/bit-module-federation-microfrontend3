@@ -10,7 +10,7 @@ module.exports = {
     port: 3003,
   },
   output: {
-    publicPath: "http://localhost:3003/",
+    publicPath: "https://bit-module-federation-microfrontend3.vercel.app/",
   },
   module: {
     rules: [
